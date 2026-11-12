@@ -1,0 +1,6 @@
+{
+  "name": "FlowPilot — Intelligent Workflow & Team Productivity Platform",
+  "description": "Coordinate engineering sprints, automate cross-team handoffs, and gain real-time delivery analytics in one unified SaaS workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
